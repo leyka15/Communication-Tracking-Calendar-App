@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Communication-Tracking-Calendar-App/static/css/main.f855e6bc.css",
-    "main.js": "/Communication-Tracking-Calendar-App/static/js/main.962d10de.js",
+    "main.js": "/Communication-Tracking-Calendar-App/static/js/main.f3378182.js",
     "index.html": "/Communication-Tracking-Calendar-App/index.html",
     "main.f855e6bc.css.map": "/Communication-Tracking-Calendar-App/static/css/main.f855e6bc.css.map",
-    "main.962d10de.js.map": "/Communication-Tracking-Calendar-App/static/js/main.962d10de.js.map"
+    "main.f3378182.js.map": "/Communication-Tracking-Calendar-App/static/js/main.f3378182.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.962d10de.js"
+    "static/js/main.f3378182.js"
   ]
 }
